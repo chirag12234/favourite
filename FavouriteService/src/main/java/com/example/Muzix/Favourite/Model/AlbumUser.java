@@ -12,6 +12,8 @@ public class AlbumUser {
 	private String userId;
 	private List<Album> album;
 	
+	
+	
 	public AlbumUser()
 	{
 		
